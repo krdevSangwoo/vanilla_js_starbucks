@@ -1,5 +1,6 @@
 const badgeEl = document.querySelector("header .badges");
 const toTopEl = document.querySelector("#to-top");
+// ddasd
 window.addEventListener(
   "scroll",
   _.throttle(function () {
